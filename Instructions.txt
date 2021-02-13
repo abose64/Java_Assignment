@@ -1,0 +1,13 @@
+Task Instructions  
+
+Attached is an excel sheet with player's details like name, age and ratings etc. Write a program in Java to read this sheet and derive the information requested below.
+
+1. Calculate and print to console the average ratings of players whose age is above 40 years.
+2. Print to console the player name with the highest age to rating ratio.
+3. Print to console the names of 3 players with least ratings.  
+
+The program should be executable from command line/(Eclipse or Intellij IDEs)
+ 
+The program source code should be uploaded to your personal github repo and the link should be shared with us.
+
+Note: Do not hard code any values. Do not put all the logic in ONE BIG main method. 
